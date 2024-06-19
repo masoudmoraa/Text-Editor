@@ -1,0 +1,64 @@
+﻿  Console.cpp
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\Console.cpp(107,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\Console.cpp(150,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\Console.cpp(181,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\Console.cpp(183,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\Console.cpp(189,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\Console.cpp(272,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Cursor.cpp
+  Editor.cpp
+  File.cpp
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(63,79): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(126,114): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(161,75): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(168,75): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(234,69): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(239,114): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(246,71): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(248,46): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(254,123): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(255,47): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(256,72): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(320,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(321,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(455,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masoud\Desktop\TextEditor\Text-Editor\TextEditor\File.cpp(499,46): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  main.cpp
+  Generating Code...
+  TextEditor.vcxproj -> C:\Users\masoud\Desktop\TextEditor\Text-Editor\x64\Debug\TextEditor.exe

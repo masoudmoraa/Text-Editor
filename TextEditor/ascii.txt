@@ -1,0 +1,7 @@
+A character variable holds ASCII value 
+(an integer number between 0 and 127) 
+
+ASCII value of 'A' is 65.
+ASCII value of 'B' is 66.
+ASCII value of 'C' is 67.
+ASCII value of 'D' is  68.
